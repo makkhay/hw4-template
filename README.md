@@ -2,6 +2,8 @@
 #### First-Name Last-Name
 TODO - Update your name in this readme.
 
+TODO - Add a badge from travis CI here
+
 ## Problem statement:
 
 Create two arrays of size 2<sup>P</sup> (where P is a command-line argument) and store a random integer in each array location of the two arrays. (At each index the two arrays should have the same random integer.)
