@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(hw4)
+add_definitions(-std=c99)
+set(SOURCE_FILES main.c)
+add_executable(hw4 ${SOURCE_FILES})
