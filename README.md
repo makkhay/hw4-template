@@ -1,5 +1,5 @@
 #HW4 Parallel Sorting
-#### First-Name Last-Name
+#### Prakash Gurung
 TODO - Update your name in this readme.
 
 TODO - Add a badge from travis CI here
